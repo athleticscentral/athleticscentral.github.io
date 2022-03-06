@@ -2,10 +2,6 @@ body{
     font-family: 'Bahnschrift', sans-serif;
 }
 
-table, td, th {
+table, th, td {
     border: 1px solid;
-  }
-  
-  table {
-    border-collapse: collapse;
   }
