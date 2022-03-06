@@ -2,6 +2,6 @@ body{
     font-family: 'Bahnschrift', sans-serif;
 }
 
-table{
+table tr,td{
     border: 1px solid black;
 }
