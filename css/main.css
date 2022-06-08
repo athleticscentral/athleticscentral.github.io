@@ -9,3 +9,7 @@ nav li {
 table {
     border-collapse: collapse;
   }
+
+  table, td, th {
+    border: 1px solid;
+  }
