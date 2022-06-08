@@ -6,6 +6,6 @@ nav li {
     display: inline;
 }
 
-table, th {
+table, th, tr {
     border: 1px solid black;
 }
