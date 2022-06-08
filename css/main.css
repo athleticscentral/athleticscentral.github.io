@@ -2,10 +2,6 @@ body{
     font-family: 'Bahnschrift', sans-serif;
 }
 
-table, th, td {
-    border: 1px solid;
-  }
-
 nav li {
     display: inline;
 }
