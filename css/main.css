@@ -6,6 +6,6 @@ table, th, td {
     border: 1px solid;
   }
 
-nav {
+nav li {
     display: inline;
 }
